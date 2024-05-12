@@ -39,8 +39,5 @@ var isAnagram = function(s, t) {
 };
 let s = "anagram";
  let t = "nagaram";
- let map = new Map()
-console.log(map)
-
 console.log(isAnagram(s, t))
 
